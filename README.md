@@ -1,2 +1,2 @@
 # Stochastic-Gradient-Descent
-Stochastic gradient descent on boston datasaet
+Stochastic gradient descent on boston dataset
